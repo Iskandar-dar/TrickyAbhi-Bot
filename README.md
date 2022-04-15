@@ -3,9 +3,9 @@
 <a href="https://youtube.com/c/TrickyAbhi"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
-<h1 align="center"><b>TrickyAbhi-Bot</b></h1>
+<h1 align="center"><b>Daruma-Bot</b></h1>
 
-# <p align="center"><a href="https://github.com/SJMxADITI/TrickyAbhi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
+# <p align="center"><a href="https://github.com/Iskandar-dar/TrickyAbhi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
 <p align="center">
     
     
@@ -23,6 +23,6 @@ OMFO Gimme a star and follow me
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SJMxADITI/TrickyAbhi-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![Herox](https://telegra.ph/file/b9f38530315136d4bbe7c.jpg)](https://telegram.me/aboutez)
+[![Herox](https://telegra.ph/file/c98d5e69a6be77512cbb1.jpg)](https://telegram.me/aboutez)
 
 
