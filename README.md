@@ -9,7 +9,7 @@
 <p align="center">
     
     
-# TrickyAbhi-Bot
+# Daruma-Bot
 OMFO Gimme a star and follow me
     
     
